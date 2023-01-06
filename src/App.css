@@ -5,7 +5,13 @@ html {
 .App {
   font-family: 'inter', sans-serif;
   color: #e5e5e5;
+  text-align: center;
+  
+}
 
+.WebsiteLink {
+  font-weight: 500;
+  text-decoration: underline;
 }
 
 .Gnb {
